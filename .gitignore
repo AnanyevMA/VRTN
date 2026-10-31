@@ -5,7 +5,8 @@
 **/*.secret
 **/*.token
 
-# Private customer/operation documents
+# Local project folders
+Сайт/
 Возврат оплаты/
 *.jfif
 
